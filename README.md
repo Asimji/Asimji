@@ -4,9 +4,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-My Portfolio -  <a href="https://asimji.github.io/" target="blank">https://asimji.github.io</a>
-  
-<a href="https://www.linkedin.com/in/mohd-asim-8688061b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohd-asim-8688061b2/" height="30" width="40" /></a> 
+Portfolio -  <a href="https://asimji.github.io/" target="blank">https://asimji.github.io</a>
+Linkdedin -  <a href="https://www.linkedin.com/in/mohd-asim-8688061b2/" target="blank">
+  https://www.linkedin.com/in/mohd-asim-8688061b2
+</a>
 </p>
 
 
