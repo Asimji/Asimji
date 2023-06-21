@@ -5,10 +5,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 Portfolio -  <a href="https://asimji.github.io/" target="blank">https://asimji.github.io</a>
+  </p>
+ <p align="left"> 
 Linkdedin -  <a href="https://www.linkedin.com/in/mohd-asim-8688061b2/" target="blank">
   https://www.linkedin.com/in/mohd-asim-8688061b2
 </a>
-</p>
+ </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asimji&label=Profile%20views&color=0e75b6&style=flat" alt="asimji" /> </p>
