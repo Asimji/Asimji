@@ -12,7 +12,7 @@
 </p>
 
 
-<img align="center" alt="coding"  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="coding"  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 
 <!-- https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif -->
