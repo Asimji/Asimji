@@ -11,8 +11,9 @@
   </a>
 </p>
 
-
-<img align="right" alt="coding"  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<p align="center">
+<img align="center" alt="coding"  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+</p>
 
 
 <!-- https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif -->
